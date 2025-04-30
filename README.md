@@ -103,16 +103,6 @@ Tabla `Clientes`:
 ![Captura de pantalla 2025-04-30 163938](https://github.com/user-attachments/assets/a0bab13d-a3ac-48b5-b5a5-47c3d33fe391)
 
 
- 🧑‍💻 Autor
-
-- Tu Nombre Aquí
-- Contacto: tuemail@example.com
-
- 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
-
----
 
  🧑‍💻 Autor
 
