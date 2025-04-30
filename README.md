@@ -106,7 +106,7 @@ Tabla `Clientes`:
 
  🧑‍💻 Autor
 
-- Tu Nombre Eliu Diaz
+- Eliu Diaz
 - Contacto: eliubosd@gmail.com
 
  📄 Licencia
